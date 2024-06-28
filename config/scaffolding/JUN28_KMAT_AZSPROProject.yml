@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: JUN28_KMAT_AZSPROProject
+  gitServerName: Karthik
+  gitUrl: https://github.com/karthikbm/JUN28_KMAT_AZSPROProject
+  gitUsername: karthikbm
+  gitBranch: main
